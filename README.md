@@ -57,9 +57,9 @@ Commercial task queues and hosted durable workflow engines provide zero-ops scal
 
 ## 🔓 Open-Source GitHub Projects
 
-Leading open-source distributed task queues, background job runners, and durable execution frameworks. Sorted by GitHub star count (descending): ⭐
+Leading open-source distributed task queues, background job runners, and durable execution frameworks. Sorted by GitHub Stars_Count (descending): ⭐
 
-| Project | Stars | Language / Broker | Primary Focus & Feature Highlights |
+| Project | GitHub_Stars | Language / Broker | Primary Focus & Feature Highlights |
 | :--- | :--- | :--- | :--- |
 | **[Celery](https://github.com/celery/celery)** 🐍 | [![Stars](https://img.shields.io/github/stars/celery/celery?style=social&color=white)](https://github.com/celery/celery/stargazers) | Python / Redis, RabbitMQ | Classic distributed task queue for Python powering production applications with complex routing and workflows. |
 | **[Temporal](https://github.com/temporalio/temporal)** ⏳ | [![Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) | Go, Multi-SDK / Cassandra, Postgres, MySQL | Leading durable execution system offering workflows as code, saga patterns, automatic state preservation, and retries. |
@@ -95,7 +95,7 @@ Choosing the right distributed task queue depends on your technology stack and r
 
 1. Fork this repository. 🍴
 2. Add or update entries in `README.md` following the tabular formats above.
-3. Ensure exact pricing, star counts, links, and concise feature descriptions are provided.
+3. Ensure exact pricing, Stars_Counts, links, and concise feature descriptions are provided.
 4. Open a Pull Request with a clear summary of changes. 🚀
 
 ---
@@ -124,3 +124,12 @@ If you'd like to support the maintenance of this and other developer resources, 
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Distributed-Task-Queue&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Distributed-Task-Queue&type=date&legend=top-left)
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Distributed-Task-Queue&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Distributed-Task-Queue_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Distributed-Task-Queue_growth.svg">
+  </picture>
+</a>

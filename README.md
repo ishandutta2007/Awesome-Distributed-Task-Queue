@@ -197,3 +197,12 @@ Star the repo if you find it useful!
 **Made for backend engineers, platform teams, and builders of reliable async systems.**  
 
 Let's expand open durable execution and task queues while recognizing the managed convenience that leading commercial platforms deliver.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Distributed-Task-Queue&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Distributed-Task-Queue_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Distributed-Task-Queue_growth.svg">
+  </picture>
+</a>
